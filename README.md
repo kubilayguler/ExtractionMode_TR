@@ -21,7 +21,7 @@ Orijinal mod yapımcısı: **Zakreon**
 
 ---
 
-## Katkıda Bulunma (Pull Request)
+## ✅ Katkıda Bulunma (Pull Request)
 
 Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. Gözünüze çarpan bir yazım hatası, daha iyi bir terim önerisi veya yeni bir mod güncellemesiyle gelen eksik bir çeviri varsa katkıda bulunabilirsiniz!
 
@@ -38,7 +38,7 @@ Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. G�
    ```
 5. GitHub üzerinden bir **Pull Request (PR)** oluşturun.
 
-### Çeviri Kuralları
+### ⚠️ Çeviri Kuralları
 - **Değişkenleri Bozmayın:** Metinler içindeki `%1`, `%2`, `%%`, `<LINE>`, `<RGB:...>`, `<SIZE:...>` gibi kod ve biçimlendirme etiketlerini kesinlikle değiştirmeyin.
 - **Oyun Terimleri:** `Coop`, `PvP` gibi uluslararası kabul görmüş oyuncu terimleri Türkçe'ye zorlama çevrilmemeli (örneğin *Kooperatif* yapılmamalı), olduğu gibi bırakılmalıdır.
 - **Karakter Kodlaması:** Tüm dosyalar **UTF-8** kodlamasında kaydedilmelidir.
