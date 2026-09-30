@@ -1,0 +1,9 @@
+name=Extraction Mode - TURKCE CEVIRI
+id=ExtractionMode_TR
+description=Extraction Mode icin Turkce yerellestirme yamasidir. Hata bildirimleri ve oy vermek icin Steam Atolye sayfasini ziyaret edebilirsiniz.
+modversion=1.0.0
+versionMin=42.0
+poster=poster.png
+icon=icon.png
+require=ExtractionMode
+author=dope

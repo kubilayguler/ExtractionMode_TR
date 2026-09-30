@@ -1,0 +1,18 @@
+{
+    "ExtractionMode.BodyBag": "Ceset Torbası",
+    "ExtractionMode.ExtractionFlareGun": "Tahliye İşaret Fişeği Tabancası",
+    "ExtractionMode.FlareRound": "Tahliye İşaret Fişeği Mermisi",
+    "ExtractionMode.InfectionCure": "Deneysel Knox Enfeksiyon Tedavisi",
+    "ExtractionMode.SpecialDocuments": "Özel Belgeler",
+    "ExtractionMode.CouriersLedger": "Kuryenin Defteri",
+    "ExtractionMode.MedicalTransportCooler": "Tıbbi Taşıma Soğutucusu",
+    "ExtractionMode.TransferManifest": "Transfer Manifestosu",
+    "ExtractionMode.ResearchersNotes": "Araştırmacının Notları",
+    "ExtractionMode.QuarantineMedicalRecords": "Karantina Tıbbi Kayıtları",
+    "ExtractionMode.EvacuationRecords": "Tahliye Kayıtları",
+    "ExtractionMode.MedicalTransferRecords": "Tıbbi Transfer Kayıtları",
+    "ExtractionMode.PatientZeroSample": "Hasta Sıfır Numunesi",
+    "ExtractionMode.CommercialPropertyRecords": "Ticari Mülk Kayıtları",
+    "ExtractionMode.GrandOhioMallPlans": "Grand Ohio AVM İnşaat Planları",
+    "ExtractionMode.VaccineSample": "Aşı Numunesi"
+}

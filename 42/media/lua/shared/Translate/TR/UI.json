@@ -1,0 +1,8 @@
+{
+    "UI_ExtractionMode_OptionsTitle": "Extraction Modu",
+    "UI_ExtractionMode_UseVanillaDeath": "Varsayılan Ölümü Kullan",
+    "UI_ExtractionMode_UseVanillaDeathTooltip": "Sandbox ayarlarında Oyuncuların Varsayılan Ölümü Seçmesine İzin Ver etkinleştirildiğinde, kurtarılmak yerine normal şekilde öl ve yeni bir hayatta kalan oluştur. İşaretsiz: dünyanın Ölüm İşleme ayarını takip et. Değişiklikler sığınakta, hazırlanmadan önce geçerli olur; baskın sırasında yapılan seçimler dönene kadar bekler. Bu tercih bu bilgisayara kaydedilir ve yalnızca izin veren dünyalarda geçerlidir.",
+    "UI_ExtractionMode_ExtractionMusicVolume": "Tahliye Müzik Sesi",
+    "UI_ExtractionMode_ShowAdminSingleplayer": "Tek Oyunculuda Yönetici Kontrollerini Göster",
+    "UI_ExtractionMode_ShowAdminSingleplayerTooltip": "Baskın HUD'unun küçültme düğmesinin yanında Yönetici düğmesini gösterir. Çok oyunculu yöneticiler bu seçenekten bağımsız olarak her zaman erişime sahiptir."
+}

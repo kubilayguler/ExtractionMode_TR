@@ -1,0 +1,17 @@
+{
+    "ContextMenu_ExtractionMode_DisposeBody": "Cesedi bertaraf et",
+    "ContextMenu_ExtractionMode_AdministerCure": "Deneysel Enfeksiyon Tedavisini Uygula",
+    "ContextMenu_ExtractionMode_AssignDeliveryContainer": "Teslimat Konteyneri Ata...",
+    "ContextMenu_ExtractionMode_Board": "Tahliye Helikopterine Bin",
+    "ContextMenu_ExtractionMode_Boarding": "Tahliye Helikopterine Biniliyor...",
+    "ContextMenu_ExtractionMode_CancelReady": "Baskın Hazırlığını İptal Et",
+    "ContextMenu_ExtractionMode_ChooseDestination": "Baskın Hedefi Seç...",
+    "ContextMenu_ExtractionMode_Contacts": "Bağlantılar...",
+    "ContextMenu_ExtractionMode_EquipFlare": "Tahliye İşaret Fişeği Tabancasını Kuşan (E%1)",
+    "ContextMenu_ExtractionMode_FlareReady": "İşaret Fişeği Hazır: Nişan Al ve Ateşle (E%1)",
+    "ContextMenu_ExtractionMode_GarageControls": "Garaj Kontrolleri...",
+    "ContextMenu_ExtractionMode_HideoutUpgrades": "Sığınak Geliştirmeleri...",
+    "ContextMenu_ExtractionMode_Ready": "Baskına Hazır",
+    "ContextMenu_ExtractionMode_SignalVaccineHelicopter": "Aşı Helikopterine Sinyal Gönder",
+    "ContextMenu_ExtractionMode_VaccineHelicopterInbound": "Aşı Helikopteri Yaklaşıyor (%1sn)"
+}
