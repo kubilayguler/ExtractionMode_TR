@@ -21,21 +21,6 @@ Orijinal mod yapımcısı: **Zakreon**
 
 ---
 
-## Kurulum
-
-### Yöntem 1: Steam Atölyesi (Önerilen)
-1. Steam Atölyesi'nden mod sayfasına gidin ve **Abone Ol** butonuna tıklayın.
-2. Orijinal **[Extraction Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275)** moduna da abone olduğunuzdan emin olun.
-3. Project Zomboid'i açın, **MODS (Modlar)** menüsünden her iki modu da aktif edin.
-4. **Seçenekler > Görüntü** sekmesinden oyun dilinizi **Türkçe** olarak ayarlayın.
-
-### Yöntem 2: Manuel Kurulum (GitHub)
-1. Bu depoyu indirin (`Code` -> `Download ZIP`).
-2. İndirdiğiniz klasörü `Extraction_Turkish_Translation` adıyla `C:\Users\<KullanıcıAdınız>\Zomboid\mods\` dizinine çıkarın.
-3. Oyunu açıp modlar menüsünden aktifleştirin.
-
----
-
 ## Katkıda Bulunma (Pull Request)
 
 Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. Gözünüze çarpan bir yazım hatası, daha iyi bir terim önerisi veya yeni bir mod güncellemesiyle gelen eksik bir çeviri varsa katkıda bulunabilirsiniz!
