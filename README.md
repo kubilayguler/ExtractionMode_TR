@@ -4,7 +4,7 @@
 [![Build 42](https://img.shields.io/badge/Project_Zomboid-Build_42-red?style=for-the-badge)](https://projectzomboid.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-[![Extraction Mode Türkçe Çeviri Tanıtım ve Kurulum Rehberi](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Extraction Mode Türkçe Çeviri - Nasıl Katkıda Bulunulur?](https://img.youtube.com/vi/J5EK8dfXJP4/maxresdefault.jpg)](https://www.youtube.com/watch?v=J5EK8dfXJP4)
 
 Bu proje, **Project Zomboid (Build 42)** için geliştirilen popüler **[Extraction Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275)** modunun kapsamlı ve özenle hazırlanmış Türkçe yerelleştirme yamasıdır.
 
