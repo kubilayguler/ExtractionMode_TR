@@ -17,20 +17,16 @@ Tüm çeviri dosyaları `42/media/lua/shared/Translate/TR/` dizininde yer almakt
 
 ---
 
-### 📝 Çeviri İlkeleri & Sözlük
+### ⚠️ Çeviri Kuralları
 
 1. **Özel Değişkenler ve Etiketler:**
    - Oyun motorunun dinamik doldurduğu `%1`, `%2`, `%%` gibi değişkenleri değiştirmeyin veya silmeyin.
    - Metin içi biçimlendirmeleri (`<LINE>`, `<RGB:r,g,b>`, `<SIZE:...>`) aynen koruyun.
 
 2. **Oyun Terimleri ve Sözlük:**
-   - **Coop:** Olduğu gibi bırakılır (*Kooperatif* olarak çevrilmez).
+   - **Coop:** Olduğu gibi bırakılır.
    - **PvP:** Olduğu gibi bırakılır.
-   - **Hideout:** *Sığınak*
-   - **Raid:** *Baskın*
-   - **Extraction:** *Tahliye*
-   - **Flare / Flare Gun:** *İşaret Fişeği / İşaret Fişeği Tabancası*
-   - **Delivery Container:** *Teslimat Konteyneri*
+   Bu kelimeler gibi çevirince anlamada zorluk yaşatacakları çevirmemeyi tercih edin.
 
 3. **Kodlama ve Format:**
    - Dosyalar her zaman **UTF-8 (BOM'suz)** olarak kaydedilmelidir.
@@ -38,7 +34,7 @@ Tüm çeviri dosyaları `42/media/lua/shared/Translate/TR/` dizininde yer almakt
 
 ---
 
-### 🚀 Pull Request Açma Süreci
+### Pull Request Açma Süreci
 
 1. Repoyu fork'layın ve değişiklikleriniz için anlamlı bir dal (branch) açın.
 2. Değişikliğinizi yapıp JSON dosyasını bir JSON doğrulayıcı ile test edin.

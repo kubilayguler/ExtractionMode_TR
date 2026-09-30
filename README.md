@@ -9,7 +9,7 @@ Orijinal mod yapımcısı: **Zakreon**
 
 ---
 
-## 🎯 Çevrilen İçerikler
+## Çevrilen İçerikler
 
 - **Oyun İçi Arayüz ve Bildirimler (HUD):** Helikopter iniş/tahliye süreleri, baskın sayaçları, anlık durum ve telsiz mesajları.
 - **Sığınak (Hideout) Altyapısı:** Jeneratör yönetimi, araç liftleri, sığınak ısıtma ve havalandırma sistemleri, tüm sığınak geliştirme açıklamaları.
@@ -21,22 +21,7 @@ Orijinal mod yapımcısı: **Zakreon**
 
 ---
 
-## 📥 Kurulum
-
-### Yöntem 1: Steam Atölyesi (Önerilen)
-1. Steam Atölyesi'nden mod sayfasına gidin ve **Abone Ol** butonuna tıklayın.
-2. Orijinal **[Extraction Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275)** moduna da abone olduğunuzdan emin olun.
-3. Project Zomboid'i açın, **MODS (Modlar)** menüsünden her iki modu da aktif edin.
-4. **Seçenekler > Görüntü** sekmesinden oyun dilinizi **Türkçe** olarak ayarlayın.
-
-### Yöntem 2: Manuel Kurulum (GitHub)
-1. Bu depoyu indirin (`Code` -> `Download ZIP`).
-2. İndirdiğiniz klasörü `Extraction_Turkish_Translation` adıyla `C:\Users\<KullanıcıAdınız>\Zomboid\mods\` dizinine çıkarın.
-3. Oyunu açıp modlar menüsünden aktifleştirin.
-
----
-
-## 🤝 Katkıda Bulunma (Pull Request)
+## ✅ Katkıda Bulunma (Pull Request)
 
 Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. Gözünüze çarpan bir yazım hatası, daha iyi bir terim önerisi veya yeni bir mod güncellemesiyle gelen eksik bir çeviri varsa katkıda bulunabilirsiniz!
 
@@ -48,7 +33,7 @@ Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. G�
 3. İlgili JSON dosyasında (`42/media/lua/shared/Translate/TR/`) düzenlemenizi yapın.
 4. Değişikliklerinizi commit'leyin ve push'layın:
    ```bash
-   git commit -m "Düzeltme: X görevindeki yazım hatası giderildi"
+   git commit -m "fix: X görevindeki yazım hatası giderildi"
    git push origin ceviri-iyilestirmesi
    ```
 5. GitHub üzerinden bir **Pull Request (PR)** oluşturun.
@@ -61,16 +46,16 @@ Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. G�
 
 ---
 
-## ⭐ Destek ve Geri Bildirim
+## Destek ve Geri Bildirim
 
-Modu beğendiyseniz Steam Atölye sayfasında **Beğen (Thumbs Up)** ve **Favorilere Ekle** butonlarıyla destek olmayı unutmayın!
+Modu beğendiyseniz Steam Atölye sayfasında **Beğen** ve **Favorilere Ekle** butonlarıyla destek olmayı unutmayın!
 
 - Steam Atölye Sayfası: *(Yüklendikten sonra bağlantı eklenecektir)*
 - Hata Bildirimi: [GitHub Issues](../../issues) veya Steam Tartışmaları
 
 ---
 
-## 📜 Lisans & Teşekkür
+## Lisans & Teşekkür
 
 - Çeviri ve Yerelleştirme: **dope**
 - Orijinal Mod & Telif: **Zakreon** (*Extraction Mode* modunun tüm kod ve içerik hakları orijinal yapımcısına aittir).
