@@ -48,7 +48,7 @@ Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. G�
 
 ## Destek ve Geri Bildirim
 
-Modu beğendiyseniz Steam Atölye sayfasında **Beğen (Thumbs Up)** ve **Favorilere Ekle** butonlarıyla destek olmayı unutmayın!
+Modu beğendiyseniz Steam Atölye sayfasında **Beğen** ve **Favorilere Ekle** butonlarıyla destek olmayı unutmayın!
 
 - Steam Atölye Sayfası: *(Yüklendikten sonra bağlantı eklenecektir)*
 - Hata Bildirimi: [GitHub Issues](../../issues) veya Steam Tartışmaları
