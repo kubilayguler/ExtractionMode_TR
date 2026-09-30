@@ -1,15 +1,27 @@
 # Extraction Mode - Türkçe Çeviri [Build 42]
 
+[![Steam Workshop](https://img.shields.io/badge/Steam_Workshop-3810841648-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810841648)
+[![Build 42](https://img.shields.io/badge/Project_Zomboid-Build_42-red?style=for-the-badge)](https://projectzomboid.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
 ![Extraction Mode Türkçe Yama Afişi](poster.png)
 
 Bu proje, **Project Zomboid (Build 42)** için geliştirilen popüler **[Extraction Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275)** modunun kapsamlı ve özenle hazırlanmış Türkçe yerelleştirme yamasıdır.
 
-Çeviri ve yerelleştirme: **dope**  
-Orijinal mod yapımcısı: **Zakreon**
+- 🎮 **Steam Atölye Sayfası:** [Extraction Mode - TÜRKÇE ÇEVİRİ (Abone Ol)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810841648)
+- ✍️ **Çeviri ve Yerelleştirme:** **dope**  
+- 👑 **Orijinal Mod Yapımcısı:** **Zakreon**
 
 ---
 
-## Çevrilen İçerikler
+## 📺 Video Rehberler
+
+- 🎬 **Mod Kurulumu ve Oyun İçi Kullanım Rehberi:** *(YouTube linkinizi buraya ekleyebilirsiniz)*
+- 🛠️ **GitHub Üzerinden Katkıda Bulunma ve PR Rehberi:** *(YouTube linkinizi buraya ekleyebilirsiniz)*
+
+---
+
+## 🎯 Çevrilen İçerikler
 
 - **Oyun İçi Arayüz ve Bildirimler (HUD):** Helikopter iniş/tahliye süreleri, baskın sayaçları, anlık durum ve telsiz mesajları.
 - **Sığınak (Hideout) Altyapısı:** Jeneratör yönetimi, araç liftleri, sığınak ısıtma ve havalandırma sistemleri, tüm sığınak geliştirme açıklamaları.
@@ -21,9 +33,24 @@ Orijinal mod yapımcısı: **Zakreon**
 
 ---
 
-## ✅ Katkıda Bulunma (Pull Request)
+## 📥 Kurulum
 
-Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. Gözünüze çarpan bir yazım hatası, daha iyi bir terim önerisi veya yeni bir mod güncellemesiyle gelen eksik bir çeviri varsa katkıda bulunabilirsiniz!
+### Yöntem 1: Steam Atölyesi (Önerilen)
+1. Steam Atölyesi'nden [Extraction Mode - TÜRKÇE ÇEVİRİ](https://steamcommunity.com/sharedfiles/filedetails/?id=3810841648) sayfasına gidin ve **Abone Ol** butonuna tıklayın.
+2. Orijinal **[Extraction Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275)** moduna da abone olduğunuzdan emin olun.
+3. Project Zomboid'i açın, **MODS (Modlar)** menüsünden her iki modu da aktif edin.
+4. **Seçenekler > Görüntü** sekmesinden oyun dilinizi **Türkçe** olarak ayarlayın.
+
+### Yöntem 2: Manuel Kurulum (GitHub)
+1. Bu depoyu indirin (`Code` -> `Download ZIP`).
+2. İndirdiğiniz klasörü `Extraction_Turkish_Translation` adıyla `C:\Users\<KullanıcıAdınız>\Zomboid\mods\` dizinine çıkarın.
+3. Oyunu açıp modlar menüsünden aktifleştirin.
+
+---
+
+## 🤝 Katkıda Bulunma (Pull Request)
+
+Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. Gözünüze çarpan bir yazım hatası, daha iyi bir terim önerisi veya yeni bir mod güncellemesiyle gelen eksik bir çeviri varsa katkıda bulunabilirsiniz! Detaylı rehber için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına göz atabilirsiniz.
 
 1. Bu depoyu **Fork**'layın.
 2. Kendi reponuzda yeni bir dal (branch) açın:
@@ -40,22 +67,22 @@ Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. G�
 
 ### ⚠️ Çeviri Kuralları
 - **Değişkenleri Bozmayın:** Metinler içindeki `%1`, `%2`, `%%`, `<LINE>`, `<RGB:...>`, `<SIZE:...>` gibi kod ve biçimlendirme etiketlerini kesinlikle değiştirmeyin.
-- **Oyun Terimleri:** `Coop`, `PvP` gibi uluslararası kabul görmüş oyuncu terimleri Türkçe'ye zorlama çevrilmemeli (örneğin *Kooperatif* yapılmamalı), olduğu gibi bırakılmalıdır.
+- **Oyun Terimleri:** `Coop`, `PvP` gibi uluslararası kabul görmüş oyuncu terimleri Türkçe'ye zorlama çevrilmemeli, olduğu gibi bırakılmalıdır.
 - **Karakter Kodlaması:** Tüm dosyalar **UTF-8** kodlamasında kaydedilmelidir.
 - **JSON Sözdizimi:** Çift tırnaklar ve virgül kurallarına dikkat edilmelidir.
 
 ---
 
-## Destek ve Geri Bildirim
+## ⭐ Destek ve Geri Bildirim
 
-Modu beğendiyseniz Steam Atölye sayfasında **Beğen** ve **Favorilere Ekle** butonlarıyla destek olmayı unutmayın!
+Modu beğendiyseniz Steam Atölye sayfasında **Beğen (Thumbs Up)** ve **Favorilere Ekle** butonlarıyla destek olmayı unutmayın!
 
-- Steam Atölye Sayfası: *(Yüklendikten sonra bağlantı eklenecektir)*
-- Hata Bildirimi: [GitHub Issues](../../issues) veya Steam Tartışmaları
+- 🎮 **Steam Atölye Sayfası:** [Extraction Mode - TÜRKÇE ÇEVİRİ](https://steamcommunity.com/sharedfiles/filedetails/?id=3810841648)
+- 🐛 **Hata Bildirimi & Öneri:** [GitHub Issues](../../issues) veya Steam Tartışmaları
 
 ---
 
-## Lisans & Teşekkür
+## 📜 Lisans & Teşekkür
 
 - Çeviri ve Yerelleştirme: **dope**
 - Orijinal Mod & Telif: **Zakreon** (*Extraction Mode* modunun tüm kod ve içerik hakları orijinal yapımcısına aittir).
