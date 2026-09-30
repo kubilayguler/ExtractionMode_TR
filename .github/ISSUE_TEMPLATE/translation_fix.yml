@@ -1,0 +1,42 @@
+name: Çeviri Hatası / İyileştirme Önerisi
+description: Oyunda karşılaştığınız bir yazım hatasını veya çeviri önerinizi bildirin.
+title: "[Çeviri]: "
+labels: ["translation", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Extraction Mode Türkçe Çeviri moduna katkıda bulunduğunuz için teşekkür ederiz!
+  - type: dropdown
+    id: category
+    attributes:
+      label: Hatanın Görüldüğü Kategori
+      options:
+        - Arayüz / HUD / Bildirimler
+        - Sığınak (Hideout) Geliştirmeleri
+        - Görevler / Hikaye / Diyaloglar
+        - Tüccarlar / Takas Sistemi
+        - Mod Eşyaları / Tıbbi Malzemeler
+        - Sandbox Ayarları
+        - Diğer
+    validations:
+      required: true
+  - type: textarea
+    id: current_text
+    attributes:
+      label: Mevcut Hatalı Metin (Oyunda görünen)
+      placeholder: "Örn: Cesedi bertaraf et..."
+    validations:
+      required: true
+  - type: textarea
+    id: suggested_text
+    attributes:
+      label: Önerilen Düzeltme
+      placeholder: "Örn: Cesedi göm / Cesedi ortadan kaldır..."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Ek Bağlam / Ekran Görüntüsü
+      placeholder: "Hatanın nerede ve ne zaman görüldüğüne dair bilgi veya ekran görüntüsü ekleyebilirsiniz."

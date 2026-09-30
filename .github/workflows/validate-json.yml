@@ -1,0 +1,38 @@
+name: JSON Dogrulama
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: JSON Dosyalarini Dogrula
+        run: |
+          python -c "
+          import json, glob, sys
+          files = glob.glob('42/media/lua/shared/Translate/TR/*.json')
+          failed = False
+          for f in files:
+              try:
+                  with open(f, 'r', encoding='utf-8') as fp:
+                      json.load(fp)
+                  print(f'OK: {f}')
+              except Exception as e:
+                  print(f'ERROR: {f}: {e}', file=sys.stderr)
+                  failed = True
+          if failed:
+              sys.exit(1)
+          print('Tum JSON dosyalari basariyla dogrulandi!')
+          "
