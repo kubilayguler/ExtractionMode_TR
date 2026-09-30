@@ -9,7 +9,7 @@ Orijinal mod yapımcısı: **Zakreon**
 
 ---
 
-## 🎯 Çevrilen İçerikler
+## Çevrilen İçerikler
 
 - **Oyun İçi Arayüz ve Bildirimler (HUD):** Helikopter iniş/tahliye süreleri, baskın sayaçları, anlık durum ve telsiz mesajları.
 - **Sığınak (Hideout) Altyapısı:** Jeneratör yönetimi, araç liftleri, sığınak ısıtma ve havalandırma sistemleri, tüm sığınak geliştirme açıklamaları.
@@ -21,7 +21,7 @@ Orijinal mod yapımcısı: **Zakreon**
 
 ---
 
-## 📥 Kurulum
+## Kurulum
 
 ### Yöntem 1: Steam Atölyesi (Önerilen)
 1. Steam Atölyesi'nden mod sayfasına gidin ve **Abone Ol** butonuna tıklayın.
@@ -36,7 +36,7 @@ Orijinal mod yapımcısı: **Zakreon**
 
 ---
 
-## 🤝 Katkıda Bulunma (Pull Request)
+## Katkıda Bulunma (Pull Request)
 
 Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. Gözünüze çarpan bir yazım hatası, daha iyi bir terim önerisi veya yeni bir mod güncellemesiyle gelen eksik bir çeviri varsa katkıda bulunabilirsiniz!
 
@@ -53,7 +53,7 @@ Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. G�
    ```
 5. GitHub üzerinden bir **Pull Request (PR)** oluşturun.
 
-### ⚠️ Çeviri Kuralları
+### Çeviri Kuralları
 - **Değişkenleri Bozmayın:** Metinler içindeki `%1`, `%2`, `%%`, `<LINE>`, `<RGB:...>`, `<SIZE:...>` gibi kod ve biçimlendirme etiketlerini kesinlikle değiştirmeyin.
 - **Oyun Terimleri:** `Coop`, `PvP` gibi uluslararası kabul görmüş oyuncu terimleri Türkçe'ye zorlama çevrilmemeli (örneğin *Kooperatif* yapılmamalı), olduğu gibi bırakılmalıdır.
 - **Karakter Kodlaması:** Tüm dosyalar **UTF-8** kodlamasında kaydedilmelidir.
@@ -61,7 +61,7 @@ Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. G�
 
 ---
 
-## ⭐ Destek ve Geri Bildirim
+## Destek ve Geri Bildirim
 
 Modu beğendiyseniz Steam Atölye sayfasında **Beğen (Thumbs Up)** ve **Favorilere Ekle** butonlarıyla destek olmayı unutmayın!
 
@@ -70,7 +70,7 @@ Modu beğendiyseniz Steam Atölye sayfasında **Beğen (Thumbs Up)** ve **Favori
 
 ---
 
-## 📜 Lisans & Teşekkür
+## Lisans & Teşekkür
 
 - Çeviri ve Yerelleştirme: **dope**
 - Orijinal Mod & Telif: **Zakreon** (*Extraction Mode* modunun tüm kod ve içerik hakları orijinal yapımcısına aittir).
