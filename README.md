@@ -33,7 +33,7 @@ Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. G�
 3. İlgili JSON dosyasında (`42/media/lua/shared/Translate/TR/`) düzenlemenizi yapın.
 4. Değişikliklerinizi commit'leyin ve push'layın:
    ```bash
-   git commit -m "Düzeltme: X görevindeki yazım hatası giderildi"
+   git commit -m "fix: X görevindeki yazım hatası giderildi"
    git push origin ceviri-iyilestirmesi
    ```
 5. GitHub üzerinden bir **Pull Request (PR)** oluşturun.
