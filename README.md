@@ -4,24 +4,21 @@
 [![Build 42](https://img.shields.io/badge/Project_Zomboid-Build_42-red?style=for-the-badge)](https://projectzomboid.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-![Extraction Mode Türkçe Yama Afişi](poster.png)
+[![Extraction Mode Türkçe Çeviri Tanıtım ve Kurulum Rehberi](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 Bu proje, **Project Zomboid (Build 42)** için geliştirilen popüler **[Extraction Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=3785397275)** modunun kapsamlı ve özenle hazırlanmış Türkçe yerelleştirme yamasıdır.
 
-- 🎮 **Steam Atölye Sayfası:** [Extraction Mode - TÜRKÇE ÇEVİRİ (Abone Ol)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810841648)
-- ✍️ **Çeviri ve Yerelleştirme:** **dope**  
-- 👑 **Orijinal Mod Yapımcısı:** **Zakreon**
+- **Steam Atölye Sayfası:** [Extraction Mode - TÜRKÇE ÇEVİRİ (Abone Ol)](https://steamcommunity.com/sharedfiles/filedetails/?id=3810841648)
 
 ---
 
-## 📺 Video Rehberler
+## Video Rehberler
 
-- 🎬 **Mod Kurulumu ve Oyun İçi Kullanım Rehberi:** *(YouTube linkinizi buraya ekleyebilirsiniz)*
-- 🛠️ **GitHub Üzerinden Katkıda Bulunma ve PR Rehberi:** *(YouTube linkinizi buraya ekleyebilirsiniz)*
+- **GitHub Üzerinden Katkıda Bulunma ve PR Rehberi:** [Videoyu İzle](https://www.youtube.com/watch?v=J5EK8dfXJP4)
 
 ---
 
-## 🎯 Çevrilen İçerikler
+## Çevrilen İçerikler
 
 - **Oyun İçi Arayüz ve Bildirimler (HUD):** Helikopter iniş/tahliye süreleri, baskın sayaçları, anlık durum ve telsiz mesajları.
 - **Sığınak (Hideout) Altyapısı:** Jeneratör yönetimi, araç liftleri, sığınak ısıtma ve havalandırma sistemleri, tüm sığınak geliştirme açıklamaları.
@@ -33,7 +30,7 @@ Bu proje, **Project Zomboid (Build 42)** için geliştirilen popüler **[Extract
 
 ---
 
-## 📥 Kurulum
+## Kurulum
 
 ### Yöntem 1: Steam Atölyesi (Önerilen)
 1. Steam Atölyesi'nden [Extraction Mode - TÜRKÇE ÇEVİRİ](https://steamcommunity.com/sharedfiles/filedetails/?id=3810841648) sayfasına gidin ve **Abone Ol** butonuna tıklayın.
@@ -48,7 +45,7 @@ Bu proje, **Project Zomboid (Build 42)** için geliştirilen popüler **[Extract
 
 ---
 
-## 🤝 Katkıda Bulunma (Pull Request)
+## Katkıda Bulunma (Pull Request)
 
 Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. Gözünüze çarpan bir yazım hatası, daha iyi bir terim önerisi veya yeni bir mod güncellemesiyle gelen eksik bir çeviri varsa katkıda bulunabilirsiniz! Detaylı rehber için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına göz atabilirsiniz.
 
@@ -73,16 +70,16 @@ Bu çeviri projesi açık kaynaklıdır ve topluluk katkılarına açıktır. G�
 
 ---
 
-## ⭐ Destek ve Geri Bildirim
+## Destek ve Geri Bildirim
 
 Modu beğendiyseniz Steam Atölye sayfasında **Beğen (Thumbs Up)** ve **Favorilere Ekle** butonlarıyla destek olmayı unutmayın!
 
-- 🎮 **Steam Atölye Sayfası:** [Extraction Mode - TÜRKÇE ÇEVİRİ](https://steamcommunity.com/sharedfiles/filedetails/?id=3810841648)
-- 🐛 **Hata Bildirimi & Öneri:** [GitHub Issues](../../issues) veya Steam Tartışmaları
+- **Steam Atölye Sayfası:** [Extraction Mode - TÜRKÇE ÇEVİRİ](https://steamcommunity.com/sharedfiles/filedetails/?id=3810841648)
+- **Hata Bildirimi & Öneri:** [GitHub Issues](../../issues) veya Steam Tartışmaları
 
 ---
 
-## 📜 Lisans & Teşekkür
+## Lisans & Teşekkür
 
 - Çeviri ve Yerelleştirme: **dope**
 - Orijinal Mod & Telif: **Zakreon** (*Extraction Mode* modunun tüm kod ve içerik hakları orijinal yapımcısına aittir).
