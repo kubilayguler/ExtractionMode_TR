@@ -11,7 +11,7 @@
     "ExtractionMode.QuarantineMedicalRecords": "Karantina Tıbbi Kayıtları",
     "ExtractionMode.EvacuationRecords": "Tahliye Kayıtları",
     "ExtractionMode.MedicalTransferRecords": "Tıbbi Transfer Kayıtları",
-    "ExtractionMode.PatientZeroSample": "Hasta Sıfır Numunesi",
+    "ExtractionMode.PatientZeroSample": "Sıfır Hasta Numunesi",
     "ExtractionMode.CommercialPropertyRecords": "Ticari Mülk Kayıtları",
     "ExtractionMode.GrandOhioMallPlans": "Grand Ohio AVM İnşaat Planları",
     "ExtractionMode.VaccineSample": "Aşı Numunesi"
